@@ -1,0 +1,8 @@
+body {
+    background-color: aqua;
+}
+
+.game-box {
+    display: flex;
+    flex-direction: column;
+}
